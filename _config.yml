@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sébastien Coube-Sisqueille's personal page
+title: Sébastien Coube-Sisqueille s personal page
 
 # Your name to show in the footer
 author: Sébastien Coube-Sisqueille
@@ -23,7 +23,6 @@ navbar-links:
   About Me: "I am a young doctor in statistics. Really into Bayesian modeling and computational statistics, but also a curious person with a strong interest in health, ecology and social sciences. Learn more re
 I strive to fly less."
   Resources:
-    - 
     - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
