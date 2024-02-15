@@ -1,6 +1,6 @@
 ---
 layout: post
-title: let"'"s goooo
+title: let's goooo
 subtitle: A first post for my up-to-date and visible personal page
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
