@@ -50,7 +50,7 @@ round-avatar: true
 social-network-links:
   email: "sebastien.coube@lilo.org"
   twitter: "S_Coube_Sis"
-  linkedin: "sébastien-coube-sisqueille-060625265"
+  #linkedin: "sébastien-coube-sisqueille-060625265"
   
 ###########################
 # --- General options --- #
