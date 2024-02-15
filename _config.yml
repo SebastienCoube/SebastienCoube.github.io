@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Sébastien Coube-Sisqueille s personal page
 
 # Your name to show in the footer
-author: Some Person
+author: Sébastien Coube-Sisqueille
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I like trains"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
