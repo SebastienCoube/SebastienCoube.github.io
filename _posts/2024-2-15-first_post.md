@@ -5,7 +5,7 @@ subtitle: Let's go !
 cover-img: /assets/img/it_s_alive.png
 thumbnail-img: /assets/img/it_s_alive.png
 share-img: /assets/img/it_s_alive.png
-tags: [books, test]
+tags: [misc]
 author: Seb Coube-Sisqueille
 ---
 
