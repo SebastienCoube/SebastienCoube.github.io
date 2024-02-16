@@ -9,4 +9,4 @@ tags: [misc]
 author: Seb Coube-Sisqueille
 ---
 
-So I have been told that I needed a personal page. Here it is. I am going to post about my research work there. 
+I have been told that I needed a personal page, with up-to-date info about me and my work. Here it is. I am going to post about my research there. 
