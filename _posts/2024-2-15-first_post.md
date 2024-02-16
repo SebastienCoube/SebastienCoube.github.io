@@ -2,9 +2,9 @@
 layout: post
 title: Hey, ho !
 subtitle: Let's go !
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/it_s_alive.png
+thumbnail-img: /assets/img/it_s_alive.png
+share-img: /assets/img/it_s_alive.png
 tags: [books, test]
 author: Seb Coube-Sisqueille
 ---
