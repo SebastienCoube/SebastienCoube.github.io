@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Nonstationary NNGPs
-subtitle: Some big work I have been doing for a long time
-cover-img: /assets/img/it_s_alive.png
-thumbnail-img: /assets/img/it_s_alive.png
-share-img: /assets/img/it_s_alive.png
+subtitle: Some big work that has been going on for a long time
+cover-img: /assets/img/field_sd.png
+thumbnail-img: /assets/img/ellipses.png
+share-img: /assets/img/ellipses.png
 tags: [spatial,hierarchical,bayesian,mcmc]
 author: Seb Coube-Sisqueille
 ---
