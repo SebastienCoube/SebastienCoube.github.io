@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nonstationary NNGPs
+title: Nonstationary Sptaial Statistics
 subtitle: Some big work that has been going on for a long time
 cover-img: /assets/img/lead_gray.png
 thumbnail-img: /assets/img/ellipses-1.png
