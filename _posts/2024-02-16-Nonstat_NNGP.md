@@ -2,7 +2,7 @@
 layout: post
 title: Nonstationary NNGPs
 subtitle: Some big work that has been going on for a long time
-cover-img: /assets/img/field_sd-1.png
+cover-img: /assets/img/lead_gray.png
 thumbnail-img: /assets/img/ellipses-1.png
 share-img: /assets/img/ellipses-1.png
 tags: [spatial,hierarchical,bayesian,mcmc]
