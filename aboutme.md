@@ -10,6 +10,8 @@ I am interested in geostatistics, in a Bayesian perspective. I like to tinker wi
 
 I strive to [fly less](https://sites.tufts.edu/flyingless/). 
 
-Contact : 
+Contact :
+
 **24 Chem. de Borde Rouge, 31320 Auzeville-Tolosane, France**
+
 **sebastien[dot]coube[at]inrae.fr_**
