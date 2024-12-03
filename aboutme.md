@@ -4,24 +4,9 @@ title: "About me"
 
 <p align="center">
   <img 
-    src="/assets/img/moi.jpg" 
+    src="/assets/img/moi.jpg" width="300" height="400" 
     />
 </p>
-
-<div class="rounded-image">
-   <img src="..." alt="..." / >
-</div>
-.rounded-image {
-    width : 100px;
-    height: 100px;
-    border-radius: 50%; // this make circle
-   overflow: hidden; //hiding image overflow
-   object-position: center;  // you can custom the position
-}
-
-  <rounded-image 
-    src="/assets/img/moi.jpg" 
-    />
 
 
 I am a resarch associate in the [MathNum](https://www.inrae.fr/en/divisions/mathnum) department of INRAE, the glorious French institute for agriculture, environment, and food research. Really into Bayesian modeling and computational statistics, but also a curious person with a strong interest in health, ecology and social sciences. 
