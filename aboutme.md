@@ -3,7 +3,9 @@ title: "About me"
 ---
 
 <p align="center">
-  <img src="/assets/img/moi.jpg" />
+  <img 
+    src="/assets/img/moi.jpg" 
+    />
 </p>
 
 
