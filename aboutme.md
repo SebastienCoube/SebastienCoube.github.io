@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: img/profile.jpg
+image: image.jpg
 about:
   template: solana
   image-width: 10em
