@@ -2,7 +2,9 @@
 title: "About me"
 ---
 
-![me](/assets/img/moi.jpg)
+<p align="center">
+  <img src="/assets/img/moi.jpg" />
+</p>
 
 
 I am a resarch associate in the [MathNum](https://www.inrae.fr/en/divisions/mathnum) department of INRAE, the glorious French institute for agriculture, environment, and food research. Really into Bayesian modeling and computational statistics, but also a curious person with a strong interest in health, ecology and social sciences. 
