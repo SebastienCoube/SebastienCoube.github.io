@@ -1,6 +1,9 @@
 ---
-layout: page
-title: About me
+title: "About me"
+image: img/profile.jpg
+about:
+  template: solana
+  image-width: 10em
 ---
 
 
@@ -14,4 +17,4 @@ Contact :
 
 **24 Chem. de Borde Rouge, 31320 Auzeville-Tolosane, France**
 
-**sebastien[dot]coube[at]inrae.fr_**
+**sebastien[dot]coube[at]inrae.fr**
